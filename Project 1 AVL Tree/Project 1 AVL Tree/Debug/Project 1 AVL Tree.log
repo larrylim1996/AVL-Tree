@@ -1,0 +1,9 @@
+﻿  Project 1 AVL Tree.cpp
+C:\Users\Larry\source\repos\COP3530\Project 1 AVL Tree\Project 1 AVL Tree\Project 1 AVL Tree.cpp(445,28): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Larry\source\repos\COP3530\Project 1 AVL Tree\Project 1 AVL Tree\Project 1 AVL Tree.cpp(787,42): warning C4804: '+=': unsafe use of type 'bool' in operation
+C:\Users\Larry\source\repos\COP3530\Project 1 AVL Tree\Project 1 AVL Tree\Project 1 AVL Tree.cpp(789,43): warning C4804: '+=': unsafe use of type 'bool' in operation
+C:\Users\Larry\source\repos\COP3530\Project 1 AVL Tree\Project 1 AVL Tree\Project 1 AVL Tree.cpp(729): warning C4715: 'removeID': not all control paths return a value
+C:\Users\Larry\source\repos\COP3530\Project 1 AVL Tree\Project 1 AVL Tree\Project 1 AVL Tree.cpp(791): warning C4715: 'search': not all control paths return a value
+C:\Users\Larry\source\repos\COP3530\Project 1 AVL Tree\Project 1 AVL Tree\Project 1 AVL Tree.cpp(919): warning C4715: 'removeInorderN': not all control paths return a value
+C:\Users\Larry\source\repos\COP3530\Project 1 AVL Tree\Project 1 AVL Tree\Project 1 AVL Tree.cpp(327): warning C4715: 'insertName': not all control paths return a value
+  Project 1 AVL Tree.vcxproj -> C:\Users\Larry\source\repos\COP3530\Project 1 AVL Tree\Debug\Project 1 AVL Tree.exe
